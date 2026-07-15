@@ -73,7 +73,7 @@ UPIMesh/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/UPI_Without_Internet.git
+https://github.com/JeslynMathew/UPIMesh.git
 cd UPIMesh
 ```
 
